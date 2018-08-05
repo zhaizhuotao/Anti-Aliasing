@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2ACC5E93-385F-A032-3C4C-A04C91D5D45F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FXAA/FXAA.shader">
+    <Files>
+      <File FileName="Assets/FXAA/FXAA.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Anti-Aliasing PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
